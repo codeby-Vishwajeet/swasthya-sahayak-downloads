@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Effective date:** 6 November 2026  
-**Copyright owner / Licensor:** [INSERT THE LEGAL NAME OF THE PERSON OR ENTITY THAT OWNS OR CONTROLS THE RELEVANT RIGHTS]
+**Copyright owner / Licensor:** Vishwajeet Ramniwas
 
 > **Proprietary licence — not an open-source licence.** Replace the copyright-owner placeholder before publication. This licence applies only to material the Licensor owns or is authorised to license. Third-party components remain subject to their own licences.
 
