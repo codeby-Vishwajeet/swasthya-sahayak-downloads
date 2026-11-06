@@ -3,8 +3,8 @@
 **Last updated:** 6 November 2026  
 **Application:** Swasthya Sahayak — Official Android Application  
 **Project website:** https://swasthya-sahayak.pages.dev/  
-**Operator / person responsible for the App:** [INSERT THE LEGAL NAME OF THE PERSON OR ENTITY RESPONSIBLE FOR OPERATING THE APP]  
-**Privacy contact:** [INSERT A DEDICATED, MONITORED PRIVACY EMAIL ADDRESS]
+**Operator / person responsible for the App:** Vishwajeet Ramniwas  
+**Privacy contact:** srivrdeveloper@gmail.com
 
 > **Publication requirement:** This Policy contains feature-dependent disclosures. Before publishing, verify every item against the exact Android build, Firebase configuration, backend, and AI integrations. Remove disclosures for services that are not used, add any services or permissions that are used but not listed, and replace every square-bracketed item. Do not publish with unfinished placeholders.
 
@@ -142,8 +142,8 @@ We may update this Policy when the App, its service providers, data practices, o
 
 For privacy questions, access or deletion requests, or complaints about information handling, contact:
 
-- **App operator:** [INSERT LEGAL NAME]
-- **Privacy contact / grievance contact:** [INSERT A DEDICATED, MONITORED EMAIL ADDRESS]
+- **App operator:** Vishwajeet Ramniwas
+- **Privacy contact / grievance contact:** srivrdeveloper@gmail.com
 - **Project website:** https://swasthya-sahayak.pages.dev/
 
 The operator should ensure that this contact method is active, monitored, and able to route privacy requests to a person responsible for resolving them.
