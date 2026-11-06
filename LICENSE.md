@@ -4,7 +4,7 @@
 **Effective date:** 6 November 2026  
 **Copyright owner / Licensor:** Vishwajeet Ramniwas
 
-> **Proprietary licence — not an open-source licence.** Replace the copyright-owner placeholder before publication. This licence applies only to material the Licensor owns or is authorised to license. Third-party components remain subject to their own licences.
+> **Proprietary licence — not an open-source licence.** This licence applies only to material the Licensor owns or is authorised to license. Third-party components remain subject to their own licences.
 
 ## 1. Grant of Limited Permission
 
@@ -62,13 +62,12 @@ This licence is governed by the laws of India, subject to mandatory rules and pr
 
 For written permission to use the App beyond the personal-use permission granted above, contact:
 
-**Licensor:** [INSERT LEGAL NAME]  
-**Permission requests:** [INSERT A DEDICATED, MONITORED CONTACT EMAIL]
-
+**Licensor:** Vishwajeet Ramniwas 
+**Permission requests:** srivrdeveloper@gmail.comc
 No additional permission is granted unless it is expressly provided in writing by the Licensor or an authorised representative.
 
 ---
 
-**Copyright © 2026 [INSERT COPYRIGHT OWNER]. All rights reserved.**
+**Copyright © 2026 Vishwajeet Ramniwas. All rights reserved.**
 
 This is a custom, proprietary licence. It is not MIT, Apache-2.0, GPL, or another open-source licence, and it should not be represented as one. GitHub may identify it as a custom or unrecognised licence rather than display a standard SPDX licence badge.
